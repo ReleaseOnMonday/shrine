@@ -1,3 +1,3 @@
-# MDC-101 for Material Components for Android (Java)
+# Android Layout with Material Design Demo (Java)
 
-Contains starter code structure for the MDC-101 Java codelab.
+Contains starter code structure for the material design components, packed with Android !!
